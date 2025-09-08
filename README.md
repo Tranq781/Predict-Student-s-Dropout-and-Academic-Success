@@ -1,5 +1,5 @@
-﻿## Employee Attrition Prediction  
-This project aims to predict employee attrition using machine learning models.  
+﻿## Predict  Student's Dropout and Academic Success 
+This project aims to predict student's dropout and academic success using machine learning models.  
 
 ### Project structure  
 - **src/**: source code  
